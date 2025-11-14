@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="559ddf52-e2d3-4c30-a3c1-fc8ffcece83f" name="Changes" comment="init commit" />
+    <list default="true" id="559ddf52-e2d3-4c30-a3c1-fc8ffcece83f" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/src/com/array/EvenDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/LargestSubArrPos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/MaxNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/MaxWealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/MinNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SearchIn2DArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SearchInRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SearchInStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SecondLargest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/CellingOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/FirstAndLastPos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/FloorOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/InfiniteArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/Mountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/OrderAgnosticBinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/RotationCounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/SearchInDuplicateRotatedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/SearchInMountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/binSearch/SearchInRotatedSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsIn2Darray/RowColMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsIn2Darray/SearchIn2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsIn2Darray/SearchIn2dArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bsIn2Darray/SortedMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyclicSort/CyclicSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyclicSort/FindAllDuplicateNumInArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyclicSort/FindAllNumDisInArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyclicSort/FindDuplicateNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyclicSort/MissingNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/function/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/function/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/function/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/MultiDimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/PassingFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/Primitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kunal/TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/FindNonRepeatedEle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/FindXorOfZeroToa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/IsEvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/MagicNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/RangeXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/SetBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/powerOfSomething.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pattern/Pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/L1rec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/CountingZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/FactorialOfNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/FiboRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/Print1ToN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/PrintNTo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/ReverseANum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level1/Sum1ToN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level2/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level2/RBS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level2/SortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level3/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level3/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level3/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level3/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level4/CountNoOfSubsequencesWithSumK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level4/PrintSubsequenceWithSumK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/Level4/PrintSubsequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/NumbersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/recurrsion/NumbersRecExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sorting/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/Output.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/equals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/interning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/printAllSubstrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/stringIntChar.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,23 +104,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="35TE5rd7y8BaceeniPFwfrmux72" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
